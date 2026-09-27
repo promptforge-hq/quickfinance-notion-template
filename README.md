@@ -7,18 +7,10 @@
 - **Type:** notion_template
 - **Price:** $19
 - **Target:** freelancers & solopreneurs
-- **Unique angle:** One‑page dashboard that tracks income, expenses, and cash flow in minutes.
 
 ## Buy Link
 
 [https://joinpromptforge.gumroad.com/l/pvrfs](https://joinpromptforge.gumroad.com/l/pvrfs)
-
-## Accounts Needed
-
-- [Gumroad](https://gumroad.com/signup) - sell product
-- [Notion](https://www.notion.so/signup) - host template
-- [Canva](https://www.canva.com/signup) - create cover image
-- [Twitter](https://twitter.com/i/flow/signup) - promotion
 
 ## Day Plan
 
@@ -75,9 +67,3 @@
 
 ### Day 14 - Review Metrics
 - [ ] Check sales, traffic, email opens
-
-## Success Metrics
-
-- **day_7:** 10 sales, 50 email captures
-- **day_14:** 30 sales, $570 revenue
-- **day_30:** 60 sales, $1,140 revenue
