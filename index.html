@@ -44,7 +44,7 @@
         }
         ul li:last-child { border-bottom: none; }
         ul li:before {
-          content: "✓";
+          content: "\2713";
           position: absolute;
           left: 0;
           color: #22d3ee;
@@ -63,6 +63,8 @@
           margin-top: 24px;
         }
         .cta:hover { transform: translateY(-2px); }
+        .cta-disabled { opacity: 0.5; pointer-events: none; }
+        .cta-note { color: #64748b; font-size: 0.9rem; margin-top: 12px; }
         footer {
           text-align: center;
           color: #64748b;
@@ -89,11 +91,12 @@
 
     <div class="card" style="text-align:center">
       <div class="price">$19<small> one-time</small></div>
-      <a class="cta" href="#buy">Buy Now for $19</a>
+      <a class="cta" href="https://joinpromptforge.gumroad.com/l/pvrfs" target="_blank" rel="noreferrer">Buy Now for $19 &rarr;</a>
+      <p class="cta-note">Secure checkout via Gumroad</p>
     </div>
 
     <footer>
-      &copy; 2026 QuickFinance Notion Template — Built with Director Agent v2
+      &copy; 2026 QuickFinance Notion Template - Built with Director Agent v2
     </footer>
   </div>
 </body>
